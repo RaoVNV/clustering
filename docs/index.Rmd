@@ -1,0 +1,88 @@
+---
+title: "Clustering: Project Page"
+output: rmdformats::readthedown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmdformats)
+```
+
+
+# Introduction to the Project
+
+Humans are incredibly good at perceiving structure. For example, we see shape boundaries even when none exist (i.e., cognitive contours). Our project began by considering the way in which humans perceive structure in sets of points. Specifically, how do people group sets of points? 
+
+Our project began by exploring human clustering and its relationship to solving computational hard problems, such as the Traveling Salesperson Problem. We also examined computational models that match human clustering behavior. Recently we began investigating individual differences in human clustering behavior, and factors related to these differences.
+
+# Phase 1: 2019 - 2023 
+
+In this phase of the project, we explore the following primary research questions: 
+
+- How do humans cluster sets of points? 
+- Is the way they cluster stable? 
+- How does they way they cluster relate to the way they solve the Traveling Salesperson Problem? 
+- What computational models best approximate human clustering behavior?
+
+## Project Team
+
+In alphabetical order: 
+
+- [Jeffrey K. Bye](https://jkbye.com/)
+- Jimin Park
+- Rina Harsch
+- [Sashank Varma](https://ic.gatech.edu/people/sashank-varma)
+- [Vijay Marupudi](https://vijaymarupudi.com/)
+- [V.N. Vimal Rao](https://raovnv.github.io/research.html)
+
+Note: This work was generously supported by funds from the Bonnie Westby Heubner Chair in Education and Technology awarded to Professor Sashank Varma. 
+
+## Publications and Presentations
+
+### Conference Proceedings Papers
+
+Marupudi, V., & Varma, S. (2023). Models of human visual clustering. In M. Goldwater, F.K. Anggoro, B.K. Hayes, & D.C. Ong (Eds.), Proceedings of the 45th Annual Conference of the Cognitive Science Society (pp. 1688-1694). https://escholarship.org/uc/item/5hk9x36n. 
+
+Marupudi, V., Harsch, R.M., Park, J., Bye, J.K., Rao, V.N.V., & Varma, S. (2022). Use of clustering in human solutions of the traveling salesperson problem. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.), Proceedings of the 44th Annual Conference of the Cognitive Science Society (pp. 424-430). https://escholarship.org/uc/item/3t16j57m.
+
+Marupudi, V., Harsch, R.M., Rao, V.N.V., Bye, J.K., Park, J., & Varma, S. (2021). The role of clustering in the efficient solution of small Traveling Salesperson Problems. In T. Fitch, C. Lamm, H. Leder, & K. Tessmar (Eds.), Proceedings of the 43rd Annual Conference of the Cognitive Science Society (pp. 1865-1871). https://escholarship.org/uc/item/5q76r06x.
+
+### Conference Presentations
+
+Marupudi, V., Harsch, R. M., Park, J., Rao, V.N.V., Bye, J. K. & Varma, S. (2022, June). Human use of clustering to solve traveling salesperson problems [Poster Presentation]. Annual Conference of the Mathematical Cognition and Learning Society (MCLS), Antwerp, Belgium.
+
+Marupudi, V., Rao, V.N.V., Park, J., Harsch, R., Bye, J.K., & Varma, S. (2020, July). Clustering as a precursor to efficient and near-optimal solution of small instances of the Traveling Salesperson Problem (TSP) [Poster presentation]. Annual Meeting of the Cognitive Science Society, Toronto, Canada. 
+
+Marupudi, V., Rao, V.N.V., Park, J., Harsch, R., Bye, J.K., & Varma, S. (2020, June). Clustering as a core mathematical ability for solving graph-theoretic problems such as the Traveling Salesperson Problem (TSP) [Poster presentation]. Annual Conference of the Mathematical Cognition and Learning Society (MCLS), Dublin, Ireland. (conference cancelled)
+
+Marupudi, V., Rao, V.N.V., Park, J., Harsch, R., Bye, J.K., & Varma, S. (2020, February). The consistency of human clustering [Poster presentation]. University of Minnesota Department of Educational Psychology Graduate Student Research Day, Minneapolis, MN, USA. 
+
+# Phase 2: 2023 - Current
+
+
+In this phase of the project, we explore the following primary research questions: 
+
+- Are there individual differences in the way humans cluster sets of points? 
+- What factors are related to these individual differences? 
+- How does the way humans perceive clusters of points impact their graphic literacy? 
+
+## Project Team
+
+In alphabetical order: 
+
+- [Sashank Varma](https://ic.gatech.edu/people/sashank-varma)
+- [Shubh Goyal](https://www.linkedin.com/in/shubh-goyal-33a070220?trk=public_profile_browsemap)
+- [Vijay Marupudi](https://vijaymarupudi.com/)
+- [V.N. Vimal Rao](https://raovnv.github.io/research.html)
+
+## Current Status
+
+Having found evidence of individual differences in human clustering, we are currently exploring factors that may be associated with these differences. While previous research has explore perceptual factors that may be related to human clustering, we instead focus on non-perceptual factors such as graphic literacy, arithmetic fluency, statistics anxiety, and even personality factors such as neuroticism and conscientiousness.  
+
+## Publications and Presentations
+
+Goyal, S., Marupudi, V., & Rao, V.N.V. (2024, June). Individual Differences in Human Clustering [Poster Presentation]. Annual Meeting of the Mathematical Cognition and Learning Society, Washington, DC, USA. 
+
+Marupudi, V., Goyal, S., Varma, S., & Rao, V.N.V. (2024, June). Might visual clustering underlie numerosity estimation? [Poster Presentation]. Annual Meeting of the Mathematical Cognition and Learning Society, Washington, DC, USA. 
+
+Goyal, S. & Rao, V.N.V. (2023, Dec). Individual Differences in Human Clustering [Symposium Presentation]. University of Illinois Undergraduate Research Experience in Statistics Symposium, Champaign, IL, USA.
