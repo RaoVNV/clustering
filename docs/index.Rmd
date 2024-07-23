@@ -81,8 +81,8 @@ Having found evidence of individual differences in human clustering, we are curr
 
 ## Publications and Presentations
 
-Goyal, S., Marupudi, V., & Rao, V.N.V. (2024, June). Individual Differences in Human Clustering [Poster Presentation]. Annual Meeting of the Mathematical Cognition and Learning Society, Washington, DC, USA. 
+Goyal, S., Marupudi, V., & Rao, V.N.V. (2024, June). [Individual Differences in Human Clustering](https://github.com/RaoVNV/clustering/blob/main/MCLS%202024%20-%20Goyal%20et%20al.pdf) [Poster Presentation]. Annual Meeting of the Mathematical Cognition and Learning Society, Washington, DC, USA. 
 
-Marupudi, V., Goyal, S., Varma, S., & Rao, V.N.V. (2024, June). Might visual clustering underlie numerosity estimation? [Poster Presentation]. Annual Meeting of the Mathematical Cognition and Learning Society, Washington, DC, USA. 
+Marupudi, V., Goyal, S., Varma, S., & Rao, V.N.V. (2024, June). [Might visual clustering underlie numerosity estimation?](https://github.com/RaoVNV/clustering/blob/main/MCLS%202024%20-%20Marupudi%20et%20al.pdf) [Poster Presentation]. Annual Meeting of the Mathematical Cognition and Learning Society, Washington, DC, USA. 
 
 Goyal, S. & Rao, V.N.V. (2023, Dec). Individual Differences in Human Clustering [Symposium Presentation]. University of Illinois Undergraduate Research Experience in Statistics Symposium, Champaign, IL, USA.
